@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>This is a place for me to do my bolg 吴严是条狗 </title>
+    <title>This is a place for me to do my bolg 吴严是条狗</title>
     <link>/</link>
+    <description>Recent content on This is a place for me to do my bolg 吴严是条狗</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Shekhar Gulati</author>
-    <rights>(C) 2016</rights>
-    <updated>2016-03-23 23:37:55 &#43;0800 CST</updated>
-
+    <lastBuildDate>Wed, 23 Mar 2016 23:37:55 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>good to great</title>
+      <link>/post/good-to-great/</link>
+      <pubDate>Wed, 23 Mar 2016 23:37:55 +0800</pubDate>
       
-        <item>
-          <title>good to great</title>
-          <link>/post/good-to-great/</link>
-          <pubDate>Wed, 23 Mar 2016 23:37:55 CST</pubDate>
-          <author>Shekhar Gulati</author>
-          <guid>/post/good-to-great/</guid>
-          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+      <guid>/post/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
-
   </channel>
 </rss>
