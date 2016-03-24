@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>System.out.println(&#34;Hello,World&#34;);</title>
-    <link>http://solomonsuheng.github.io/</link>
-    <description>Recent content on System.out.println(&#34;Hello,World&#34;);</description>
+    <title>Abouts on System.out.println(&#34;Hello,World&#34;);</title>
+    <link>http://solomonsuheng.github.io/about/</link>
+    <description>Recent content in Abouts on System.out.println(&#34;Hello,World&#34;);</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://solomonsuheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://solomonsuheng.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Who am I</title>
